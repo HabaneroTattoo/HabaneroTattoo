@@ -1,0 +1,194 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav ul a,
+nav .brand-logo {
+  color: black;
+  font-family: 'Special Elite', cursive;
+}
+
+nav .brand-logo {
+  font-family: 'Special Elite', cursive;
+}
+
+nav .nav-wrapper {
+  padding: 0 50px;
+  font-family: 'Special Elite', cursive;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.sidenav-trigger {
+  color: #B80f0A;
+  font-family: 'Special Elite', cursive;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  font-family: 'Special Elite', cursive;
+}
+
+.section-intro {
+  height: 100%;
+  width: 100%;
+  font-family: 'Special Elite', cursive;
+}
+
+.header {
+  margin-top: 15%;
+  font-family: 'Special Elite', cursive;
+}
+
+.header-subtitle {
+  margin-top: 10%;
+  font-size: 1.3em;
+  font-family: 'Special Elite', cursive;
+}
+
+.btn-large {
+  font-size: 1.3em;
+  font-family: 'Special Elite', cursive;
+  background-color: #B80f0A;
+}
+
+#btn-large:hover {
+background: #B80f0A;
+}
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+    font-family: 'Special Elite', cursive;
+  }
+  #index-banner .section {
+    top: 10%;
+    font-family: 'Special Elite', cursive;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+    font-family: 'Special Elite', cursive;
+  }
+  nav.nav-wrapper {
+  padding: 0 10px;
+  font-family: 'Special Elite', cursive;
+  }
+}
+
+.col-informazionistudio {
+  margin-top: 60px;
+  margin-bottom: 100px;
+  font-family: 'Special Elite', cursive;
+}
+
+.icon-block {
+  padding: 0 15px;
+  color: #B80f0A;
+  font-family: 'Special Elite', cursive;
+}
+
+.icon-block .material-icons {
+  color: #B80f0A;
+  font-size: inherit;
+}
+
+#informazionistudio h3 {
+  font-size: 2em;
+  line-height: 1.6em;
+  color: #0000;
+  font-family: 'Special Elite', cursive; 
+}
+
+
+#informazionistudio h5 {
+  font-size: 1.3em;
+  line-height: 1.6em;
+  color: #B80f0A;
+  font-family: 'Special Elite', cursive; 
+}
+
+.section-prenotazioneappuntamento {
+  height: 100%;
+  width: 100%;
+  color: #B80f0A;
+  font-family: 'Special Elite', cursive;
+}
+
+.prenotazioneappuntamento-icon {
+  font-size: 7em;
+  margin-top: 60px;
+  background-color: #B80f0A;
+  font-family: 'Special Elite', cursive;
+}
+
+.prenotazioneappuntamento-subtitle {
+  font-size: 3em;
+  margin-top: 5%;
+  color: #B80f0A;
+  font-family: 'Special Elite', cursive;
+}
+
+.btn-prenotazioneappuntamento {
+  width: 100%;
+  background-color: #B80f0A;
+  font-family: 'Special Elite', cursive;
+}
+
+.InfoePreventivi-icon {
+  font-size: 7em;
+  margin-top: 60px;
+  color: #B80f0A;
+}
+
+.titolo-1 {
+  color: #000000;
+  font-family: 'Special Elite', cursive;
+}
+
+.InfoePreventivi-subtitle {
+  font-size: 3em;
+  margin-top: 5%;
+  line-height: 2em;
+  color: #000000;
+  font-family: 'Special Elite', cursive;
+}
+
+.btn-InfoePreventivi {
+  width: 100%;
+  color: #B80f0A;
+  font-family: 'Special Elite', cursive;
+}
+
+.page-footer {
+  background-color: #B80f0A;
+  font-family: 'Special Elite', cursive;
+}
+
+.social {
+  height: 64px;
+  font-family: 'Special Elite', cursive;
+}
+
+.social-icon {
+  font-size: 1.5em;
+  color: #000000;
+  padding: 0 20px;
+  font-family: 'Special Elite', cursive;
+}
+
+.social-icon:hover {
+  font-family: 'Special Elite', cursive;
+}
+
